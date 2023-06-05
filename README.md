@@ -1,6 +1,6 @@
 ### Hi there, I'm Dominik Telka! 👋
 
-- 🔭 I’m currently working on shop website.
+- 🔭 I’m currently working on website when you can put information about your stolen bike.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to my first job as Developer.
 - 💬 Ask me about my current projects.
