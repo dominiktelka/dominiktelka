@@ -5,5 +5,5 @@
 - 📫 How to reach me: [LinkedIn - Dominik Telka](https://www.linkedin.com/in/dominik-telka-203102183/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: When im nervous im talking to much.
-- Aboute Me check this site : [DominikTelka(https://dominik-telka.vercel.app/)]
+- Aboute Me check this site : [DominikTelka](https://dominik-telka.vercel.app/)
 - My latest project : [Iphone showcase](https://dominiktelka.github.io/Nikifor-Iphone/)
